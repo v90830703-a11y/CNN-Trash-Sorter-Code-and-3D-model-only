@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightBurnProject AppVersion="2.0.05" DeviceName="Ruida 6445S" FormatVersion="1" MaterialHeight="0" MirrorX="True" MirrorY="True">
+    <Thumbnail Source="iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAACXBIWXMAABJ0AAASdAHeZh94AAAEkUlEQVR4nO3YPWqVCxSG0Z14IIgHMUJE0EYLsVFQxM5ZOIsMQQI6AEsbp+AIbMVS0ogKNqKIECzEv/rcIdwqfgeetUbw7uYp9s5ms9kMkLS79ABgOQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYatfv37Nx48f5+DgYOktp+L379/z+fPnef78+dy9e3fpObAVjo+P5+joaFYvXryYw8PDuXz58tKbTsXPnz/n+vXrc3JyMnfu3Fl6DmyF4+Pj+fbt26xu3rw59+7dm9evXy+96VQ8efJkvn79Om/fvp3Hjx8vPQe2wsuXL+fSpUt+AFAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABAmABC2WnrAv/Djx495//79PHjwYOkpsBXevXs3nz59agRgZ2dn1uv1rFaJc+F/rdfr2d3dbQTg7Nmzs16v5/DwcOkpsBUePXo0+/v7jQDs7e3NxYsX5+HDh0tPga3w9OnTOX/+vCcglAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhK2WHvAvfP/+fd68eTP7+/tLT4Gt8OfPn/nw4UMjALdu3Zpnz57NuXPnlp4CW+Hv379zcHDQCMCZM2fmypUrS8+ArXHhwoWZ8QOANAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAsNXJycl8+fJljo6Olt5yKl69ejXXrl1begZspdXVq1fn/v37s7e3t/SWU3Hjxo25ffv20jNgK+1sNpvN0iOAZfgBQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQJgAQNh/vzNmoE5o5AMAAAAASUVORK5CYII="/>
+    <VariableText>
+        <Start Value="0"/>
+        <End Value="999"/>
+        <Current Value="0"/>
+        <Increment Value="1"/>
+        <AutoAdvance Value="0"/>
+    </VariableText>
+    <UIPrefs>
+        <Optimize_ByLayer Value="0"/>
+        <Optimize_ByGroup Value="-1"/>
+        <Optimize_ByPriority Value="1"/>
+        <Optimize_WhichDirection Value="0"/>
+        <Optimize_InnerToOuter Value="1"/>
+        <Optimize_ByDirection Value="0"/>
+        <Optimize_ReduceTravel Value="1"/>
+        <Optimize_HideBacklash Value="0"/>
+        <Optimize_ReduceDirChanges Value="0"/>
+        <Optimize_ChooseCorners Value="0"/>
+        <Optimize_AllowReverse Value="1"/>
+        <Optimize_RemoveOverlaps Value="0"/>
+        <Optimize_OptimalEntryPoint Value="0"/>
+        <Optimize_OverlapDist Value="0.025"/>
+    </UIPrefs>
+    <CutSetting type="Cut">
+        <index Value="0"/>
+        <name Value="C00"/>
+        <minPower Value="55"/>
+        <maxPower Value="55"/>
+        <maxPower2 Value="20"/>
+        <speed Value="30"/>
+        <priority Value="0"/>
+    </CutSetting>
+    <Shape Type="Rect" CutIndex="0" W="1074.9999" H="305.00003" Cr="0">
+        <XForm>1 0 0 1 541 157</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="0" W="1074.9999" H="305.00003" Cr="0">
+        <XForm>1 0 0 1 541 468</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="0" W="304.99997" H="775.00012" Cr="0">
+        <XForm>1 0 0 1 1238 394</XForm>
+    </Shape>
+    <Notes ShowOnLoad="0" Notes=""/>
+</LightBurnProject>
