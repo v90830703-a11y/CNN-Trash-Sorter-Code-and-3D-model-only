@@ -1,0 +1,55 @@
+ID Subclass
+
+101 biological
+102 food-organics
+103 vegetation
+
+201 armature
+202 attenuator
+203 battery
+204 bypass-capacitor
+205 cartridge-fuse
+206 clip-lead
+207 electric-relay
+208 electrolytic-capacitor
+209 filament
+210 heat-sink
+211 induction-coil
+212 Integrated-micro-circuit
+213 jumper-cable
+214 junction-transistor
+215 LED
+216 light-circuit
+217 limiter-clipper
+218 local-oscillator
+219 memory-chip
+220 microchip
+221 microprocessor
+222 multiplexer
+223 omni-directional-antenna
+224 PNP-transistor
+225 potential-divider
+226 potentiometer
+227 pulse-generator
+228 relay
+229 rheostat
+230 semi-conductor
+231 semiconductor-diode
+232 shunt
+233 solenoid
+234 stabilizer
+235 step-down-transformer
+236 step-up-transformer
+237 transistor
+
+301 miscellaneous-trash
+302 trash
+
+401 cardboard
+402 clothes
+403 glass
+404 metal
+405 paper
+406 plastic
+407 shoes
+408 textile-trash
